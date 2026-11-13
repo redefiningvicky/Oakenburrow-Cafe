@@ -51,11 +51,11 @@
 <h2 id="project-details">🛠️ Project Details</h2>
 
 <p>
-  <strong>Tools:</strong> Lovable, ChatGPT, GitHub
+  <strong>Tools:</strong> Lovable, Claude, ChatGPT
 </p>
 
 <p>
-  <strong>Format:</strong> Interactive browser game
+  <strong>Format:</strong> Browser Game
 </p>
 
 <hr>
