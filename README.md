@@ -76,7 +76,7 @@
 
 <hr>
 
-<h2 id="app">📱 App</h2>
+<h2 id="app">🎲 Game</h2>
 
 <p>
   <a href="https://oakenburrowcafe.lovable.app/">
