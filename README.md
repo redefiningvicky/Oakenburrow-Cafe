@@ -55,6 +55,10 @@
 </p>
 
 <p>
+  <strong>Models:</strong> Claude Sonnet 4.5, ChatGPT 6 Luna, ChatGPT 6.1 Sol, ChatGPT 6 Astra
+</p>
+
+<p>
   <strong>Format:</strong> Browser Game
 </p>
 
@@ -80,7 +84,7 @@
 
 <p>
   <a href="https://oakenburrowcafe.lovable.app/">
-    Launch Oakenburrow Cafe
+    Launch Game
   </a>
 </p>
 
