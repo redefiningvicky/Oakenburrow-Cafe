@@ -181,6 +181,8 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
         <li>Bark Coffee</li>
         <li>Acorn Latte</li>
         <li>Spiced Chestnut Hot Chocolate</li>
+        <li>Chilled Mint & Crisp Apple Tonic</li>
+        <li>Iced Bark Coffee</li>
       </ul>
     </li>
   </ul>
