@@ -16,6 +16,7 @@
 <ul>
   <li><a href="#objective">Objective</a></li>
   <li><a href="#inspiration">Inspiration</a></li>
+  <li><a href="#about">About</a></li>
   <li><a href="#project-details">Project Details</a></li>
   <li><a href="#story">Story</a></li>
   <li><a href="#how-to-play">How to Play</a></li>
@@ -27,10 +28,7 @@
 
 <h2 id="objective">🎯 Objective</h2>
 
-  The project brings together the comfort of a neighborhood cafe,
-  storybook woodland animals, everyday generosity of paying
-  for someone else's meal, and community. Its gentle pace and hand-painted setting
-  make a small act of kindness the heart of the experience. Designed with Lovable, Claude, ChatGPT
+Oakenburrow Cafe brings the comfort of a neighborhood cafe to a gently paced, hand-painted woodland world where paying for a neighbor’s meal turns a small act of kindness into community.
 
 <hr>
 
@@ -73,6 +71,14 @@
     </a>
   </li>
 </ul>
+
+<hr>
+
+<h2 id="about">About</h2>
+
+<p>
+  Lovable, Claude, and ChatGPT were used to shape the game’s design, create its visuals, develop its code, and refine the player experience.
+</p>
 
 <hr>
 
