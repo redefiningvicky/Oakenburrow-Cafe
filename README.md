@@ -322,6 +322,22 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
   </tr>
 </table>
 
+<h3>Thank You</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/screenshots/Cropped_Screenshots/Cropped_Screenshot_08_End.png">
+        <img
+          src="screenshots/Cropped_Screenshots/Cropped_Screenshot_08_End.png"
+          alt="Screenshot Journal"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <hr>
 
 <div align="center">
