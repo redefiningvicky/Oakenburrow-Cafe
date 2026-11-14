@@ -128,7 +128,6 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 
 <details>
   <summary><strong>Menu</strong></summary>
-
   <ul>
     <li>
       <strong>Brunch</strong>
@@ -186,7 +185,19 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
       </ul>
     </li>
   </ul>
+</details>
 
+<details>
+  <summary><strong>Characters</strong></summary>
+  <ul>
+    <li>Fern</li>
+    <li>Hazel</li>
+    <li>Pip</li>
+    <li>Moss</li>
+    <li>Thimble</li>
+    <li>Clover</li>
+    <li>Server (Laurel)</li>
+  </ul>
 </details>
 
 <hr>
