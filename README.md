@@ -104,7 +104,6 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 </ol>
 
 <p>
-  The menu includes brunch, soup, dinner, dessert, and drinks.
   Fern has a $100 card budget for the visit.
 </p>
 
