@@ -231,7 +231,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
     <td>
       <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/Screenshots/Screenshot_02_Menu.png">
         <img
-          src="Screenshot_02_Menu.png"
+          src="Screenshots/Screenshot_02_Menu.png"
           alt="Screenshot Menu"
           width="100%"
         />
