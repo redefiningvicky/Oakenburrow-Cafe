@@ -55,7 +55,7 @@
 </p>
 
 <p>
-  <strong>Models:</strong> Claude Sonnet 4.5, ChatGPT 6 Luna, ChatGPT 6.1 Sol, ChatGPT 6 Astra
+  <strong>Models:</strong> Claude Sonnet 4.6 (2026), ChatGPT 6 Luna (2026), ChatGPT 6.1 Sol (2026), ChatGPT 6 Astra (2026)
 </p>
 
 <p>
