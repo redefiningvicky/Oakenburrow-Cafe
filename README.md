@@ -18,7 +18,7 @@
   <li><a href="#inspiration">Inspiration</a></li>
   <li><a href="#project-details">Project Details</a></li>
   <li><a href="#how-to-play">How to Play</a></li>
-  <li><a href="#app">App</a></li>
+  <li><a href="#game">Game</a></li>
   <li><a href="#images">Images</a></li>
 </ul>
 
@@ -80,7 +80,7 @@
 
 <hr>
 
-<h2 id="app">🎲 Game</h2>
+<h2 id="Game">🎲 Game</h2>
 
 <p>
   <a href="https://oakenburrowcafe.lovable.app/">
