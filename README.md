@@ -16,7 +16,6 @@
 <ul>
   <li><a href="#objective">Objective</a></li>
   <li><a href="#inspiration">Inspiration</a></li>
-  <li><a href="#about">About</a></li>
   <li><a href="#project-details">Project Details</a></li>
   <li><a href="#story">Story</a></li>
   <li><a href="#how-to-play">How to Play</a></li>
@@ -62,14 +61,6 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
     </a>
   </li>
 </ul>
-
-<hr>
-
-<h2 id="about">About</h2>
-
-<p>
-  Lovable, Claude, and ChatGPT were used to shape the game’s design, create its visuals, develop its code, and refine the player experience.
-</p>
 
 <hr>
 
