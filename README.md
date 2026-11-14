@@ -19,6 +19,7 @@
   <li><a href="#project-details">Project Details</a></li>
   <li><a href="#story">Story</a></li>
   <li><a href="#how-to-play">How to Play</a></li>
+  <li><a href="#details">Details</a></li>
   <li><a href="#game">Game</a></li>
   <li><a href="#images">Images</a></li>
 </ul>
@@ -97,7 +98,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 
 <ol>
   <li>Step inside the hollow oak and take a seat.</li>
-  <li>Browse the café menu and choose food or a drink.</li>
+  <li>Browse the cafe menu and choose food or a drink.</li>
   <li>Meet the woodland regulars and enjoy your meal.</li>
   <li>Settle your bill and leave a carved token for a neighbor.</li>
 </ol>
@@ -108,6 +109,41 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 </p>
 
 <hr>
+
+<h2 id="Details">🔎 Details</h2>
+
+<details>
+  <summary><strong>Season</strong></summary>
+
+  <p>
+    Fall
+  </p>
+
+</details>
+
+<details>
+  <summary><strong>Time</strong></summary>
+
+  <p>
+    Brunch, 10 am - 3 pm
+    Dinner, 5 pm - 9 pm
+  </p>
+
+</details>
+
+<details>
+  <summary><strong>Menu</strong></summary>
+
+  <p>
+    Brunch
+    Soup
+    Dinner
+    Dessert
+    Bakery
+    Beverages
+  </p>
+
+</details>
 
 <h2 id="game">🎲 Game</h2>
 
