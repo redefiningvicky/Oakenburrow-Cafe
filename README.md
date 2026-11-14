@@ -3,7 +3,7 @@
   <h1>🌿 Oakenburrow Cafe</h1>
 
   <p>
-    A cozy woodland café game about sharing a meal,
+    A cozy woodland cafe game about sharing a meal,
     meeting the neighbors, and paying it forward.
   </p>
 
