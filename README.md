@@ -114,36 +114,80 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 
 <details>
   <summary><strong>Season</strong></summary>
-
-  <p>
-    <li> Fall </li>
-  </p>
-
+  <ul>
+    <li>Fall</li>
 </details>
 
 <details>
   <summary><strong>Time</strong></summary>
-
-  <p>
-      <li> Brunch, 10 am - 3 pm </li>
-      <li> Dinner, 5 pm - 9 pm </li>
-  </p>
-
+  <ul>
+    <li>Brunch, 10 am - 3 pm</li>
+    <li>Dinner, 5 pm - 9 pm</li>
+  </ul>
 </details>
 
 <details>
   <summary><strong>Menu</strong></summary>
 
-  <p>
-    <li> Brunch </li>
-    <li> Soup </li>
-    <li> Dinner </li>
-    <li> Dessert </li>
-    <li> Bakery </li>
-    <li> Beverages </li>
-  </p>
+  <ul>
+    <li>
+      <strong>Brunch</strong>
+      <ul>
+        <li>Wild Acorn Flour Pancakes</li>
+        <li>Toasted Grain & Forest Berry Porridge</li>
+        <li>Woodland Scramble in an Acorn Cap</li>
+        <li>Chanterelle & Herb Toast</li>
+        <li>Savory Acorn & Roasted Squash Tart</li>
+        <li>Warm Lentil & Roasted Beet Bowl</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Soup</strong>
+      <ul>
+        <li>Clear Root & Morel Broth</li>
+        <li>First Tomato & Sweet Pepper Velouté</li>
+        <li>Earthy Mountain Barley Stew</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Dinner</strong>
+      <ul>
+        <li>Pan-Seared King Oyster "Scallops"</li>
+        <li>Wild Mushroom & Black Truffle Risotto</li>
+        <li>Braised Fennel & White Bean Cassoulet</li>
+        <li>Oakenburrow Signature Hearth Plate</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Dessert</strong>
+      <ul>
+        <li>Slow-Baked Acorn Pudding</li>
+        <li>Wild Blackberry & Oat Crumble</li>
+        <li>Hazelnut & Rose Petal Torte</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Bakery</strong>
+      <ul>
+        <li>Hazelnut & Thyme Scone</li>
+        <li>Spiced Acorn Shortbread</li>
+        <li>Dark Chocolate Chestnut Brownie</li>
+        <li>Pine & Wildflower Madeleines</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Beverages</strong>
+      <ul>
+        <li>Bark Coffee</li>
+        <li>Acorn Latte</li>
+        <li>Spiced Chestnut Hot Chocolate</li>
+      </ul>
+    </li>
+  </ul>
 
 </details>
+
+<hr>
 
 <h2 id="game">🎲 Game</h2>
 
@@ -181,7 +225,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
     <a href="https://github.com/redefiningvicky/Vibe-Coding-Projects">
       Back to Vibe Coding Projects
     </a>
-    &nbsp; • &nbsp;
+      •  
     <a href="https://github.com/redefiningvicky/redefiningvicky">
       Back to Portfolio
     </a>
