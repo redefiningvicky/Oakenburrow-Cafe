@@ -97,10 +97,10 @@
 <table>
   <tr>
     <td>
-      <a href="https://oakenburrowcafe.lovable.app/">
+      <a href="">
         <img
-          src="https://oakenburrowcafe.lovable.app/og-cover.jpg"
-          alt="Oakenburrow Cafe, a cozy woodland café game"
+          src=""
+          alt=""
           width="100%"
         />
       </a>
