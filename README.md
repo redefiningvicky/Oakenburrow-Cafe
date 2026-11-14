@@ -46,6 +46,10 @@
   make a small act of kindness the heart of the experience.
 </p>
 
+<ul>
+  <li>Acorn Community Cafe</li>
+</ul>
+
 <hr>
 
 <h2 id="project-details">🛠️ Project Details</h2>
@@ -80,7 +84,7 @@
 
 <hr>
 
-<h2 id="Game">🎲 Game</h2>
+<h2 id="game">🎲 Game</h2>
 
 <p>
   <a href="https://oakenburrowcafe.lovable.app/">
