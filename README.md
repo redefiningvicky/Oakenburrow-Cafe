@@ -215,9 +215,9 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/Screenshots/Screenshot_01_Cover.png">
+      <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/screenshots/Cropped_Screenshots/Cropped_Screenshot_01_Cover.png">
         <img
-          src="Screenshots/Screenshot_01_Cover.png"
+          src="Cropped_Screenshots/Cropped_Screenshot_01_Cover.png"
           alt="Screenshot Cover"
           width="100%"
         />
@@ -231,9 +231,9 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/Screenshots/Screenshot_02_Menu.png">
+      <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/screenshots/Cropped_Screenshots/Cropped_Screenshot_02_Menu.png">
         <img
-          src="Screenshots/Screenshot_02_Menu.png"
+          src="Cropped_Screenshots/Cropped_Screenshot_02_Menu.png"
           alt="Screenshot Menu"
           width="100%"
         />
@@ -247,9 +247,9 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/Screenshots/Screenshot_03_Food.png">
+      <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/screenshots/Cropped_Screenshots/Cropped_Screenshot_03_Food.png">
         <img
-          src="Screenshots/Screenshot_03_Food.png"
+          src="Cropped_Screenshots/Cropped_Screenshot_03_Food.png"
           alt="Screenshot Food"
           width="100%"
         />
@@ -263,9 +263,9 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/Screenshots/Screenshot_04_Tokens.png">
+      <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/screenshots/Cropped_Screenshots/Cropped_Screenshot_04_Tokens.png">
         <img
-          src="Screenshots/Screenshot_04_Tokens.png"
+          src="Cropped_Screenshots/Cropped_Screenshot_04_Tokens.png"
           alt="Screenshot Tokens"
           width="100%"
         />
@@ -279,9 +279,9 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/Screenshots/Screenshot_05_Thimble1A.png">
+      <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/screenshots/Cropped_Screenshots/Cropped_Screenshot_05_Thimble1A.png">
         <img
-          src="Screenshots/Screenshot_05_Thimble1A.png"
+          src="Cropped_Screenshots/Cropped_Screenshot_05_Thimble1A.png"
           alt="Screenshot Thimble"
           width="100%"
         />
@@ -295,9 +295,9 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/Screenshots/Screenshot_06_Thimble1B.png">
+      <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/screenshots/Cropped_Screenshots/Cropped_Screenshot_06_Thimble1B.png">
         <img
-          src="Screenshots/Screenshot_06_Thimble1B.png"
+          src="Cropped_Screenshots/Cropped_Screenshot_06_Thimble1B.png"
           alt="Screenshot Thimble"
           width="100%"
         />
@@ -311,9 +311,9 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/Screenshots/Screenshot_07_Journal.png">
+      <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/screenshots/Cropped_Screenshots/Cropped_Screenshot_07_Journal.png">
         <img
-          src="Screenshots/Screenshot_07_Journal.png"
+          src="Cropped_Screenshots/Cropped_Screenshot_07_Journal.png"
           alt="Screenshot Journal"
           width="100%"
         />
