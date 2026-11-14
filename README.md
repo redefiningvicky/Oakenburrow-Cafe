@@ -17,6 +17,7 @@
   <li><a href="#objective">Objective</a></li>
   <li><a href="#inspiration">Inspiration</a></li>
   <li><a href="#project-details">Project Details</a></li>
+  <li><a href="#story">Story</a></li>
   <li><a href="#how-to-play">How to Play</a></li>
   <li><a href="#game">Game</a></li>
   <li><a href="#images">Images</a></li>
@@ -27,28 +28,16 @@
 <h2 id="objective">🎯 Objective</h2>
 
 <p>
-  Oakenburrow Cafe invites you to slow down inside a welcoming café
-  tucked into the hollow of an old oak. Play as Fern, a quiet deer,
-  settle in for a visit, and share a little kindness with the woodland
-  community. Choose something from the seasonal menu, enjoy it at your
-  own pace, and leave a carved meal token so another neighbor can eat
-  too.
-</p>
+  The project brings together the comfort of a neighborhood café,
+  storybook woodland animals, everyday generosity of paying
+  for someone else's meal, and community. Its gentle pace and hand-painted setting
+  make a small act of kindness the heart of the experience. Designed with Lovable, Claude, ChatGPT
 
 <hr>
 
 <h2 id="inspiration">🍂 Inspiration</h2>
 
-<p>
-  The project brings together the comfort of a neighborhood café,
-  storybook woodland animals, and the everyday generosity of paying
-  for someone else's meal. Its gentle pace and hand-painted setting
-  make a small act of kindness the heart of the experience.
-</p>
-
-<ul>
-  <li>Acorn Community Cafe</li>
-</ul>
+Acorn Community Cafe
 
 <hr>
 
@@ -64,6 +53,19 @@
 
 <p>
   <strong>Format:</strong> Browser Game
+</p>
+
+<hr>
+
+<h2 id="story">📖 Story</h2>
+
+<p>
+  Oakenburrow Cafe invites you to slow down inside a welcoming café
+  tucked into the hollow of an old oak. Play as Fern, a quiet deer,
+  settle in for a visit, and share a little kindness with the woodland
+  community. Choose something from the seasonal menu, enjoy it at your
+  own pace, and leave a carved meal token so another neighbor can eat
+  too. 
 </p>
 
 <hr>
