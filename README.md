@@ -210,7 +210,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 
 <h2 id="images">🖼️ Images</h2>
 
-<h3>Oakenburrow Cafe Entrance</h3>
+<h3>Oakenburrow Cafe</h3>
 
 <table>
   <tr>
