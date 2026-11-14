@@ -27,7 +27,7 @@
 
 <h2 id="objective">🎯 Objective</h2>
 
-  The project brings together the comfort of a neighborhood café,
+  The project brings together the comfort of a neighborhood cafe,
   storybook woodland animals, everyday generosity of paying
   for someone else's meal, and community. Its gentle pace and hand-painted setting
   make a small act of kindness the heart of the experience. Designed with Lovable, Claude, ChatGPT
