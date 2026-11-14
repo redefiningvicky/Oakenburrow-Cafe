@@ -217,7 +217,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
     <td>
       <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/screenshots/Cropped_Screenshots/Cropped_Screenshot_01_Cover.png">
         <img
-          src="Cropped_Screenshot_01_Cover.png"
+          src="screenshots/Cropped_Screenshots/Cropped_Screenshot_01_Cover.png"
           alt="Screenshot Cover"
           width="100%"
         />
@@ -233,7 +233,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
     <td>
       <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/screenshots/Cropped_Screenshots/Cropped_Screenshot_02_Menu.png">
         <img
-          src="Cropped_Screenshot_02_Menu.png"
+          src="screenshots/Cropped_Screenshots/Cropped_Screenshot_02_Menu.png"
           alt="Screenshot Menu"
           width="100%"
         />
@@ -249,7 +249,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
     <td>
       <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/screenshots/Cropped_Screenshots/Cropped_Screenshot_03_Food.png">
         <img
-          src="Cropped_Screenshot_03_Food.png"
+          src="screenshots/Cropped_Screenshots/Cropped_Screenshot_03_Food.png"
           alt="Screenshot Food"
           width="100%"
         />
@@ -265,7 +265,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
     <td>
       <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/screenshots/Cropped_Screenshots/Cropped_Screenshot_04_Tokens.png">
         <img
-          src="Cropped_Screenshot_04_Tokens.png"
+          src="screenshots/Cropped_Screenshots/Cropped_Screenshot_04_Tokens.png"
           alt="Screenshot Tokens"
           width="100%"
         />
@@ -281,7 +281,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
     <td>
       <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/screenshots/Cropped_Screenshots/Cropped_Screenshot_05_Thimble1A.png">
         <img
-          src="Cropped_Screenshot_05_Thimble1A.png"
+          src="screenshots/Cropped_Screenshots/Cropped_Screenshot_05_Thimble1A.png"
           alt="Screenshot Thimble"
           width="100%"
         />
@@ -297,7 +297,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
     <td>
       <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/screenshots/Cropped_Screenshots/Cropped_Screenshot_06_Thimble1B.png">
         <img
-          src="Cropped_Screenshot_06_Thimble1B.png"
+          src="screenshots/Cropped_Screenshots/Cropped_Screenshot_06_Thimble1B.png"
           alt="Screenshot Thimble"
           width="100%"
         />
@@ -313,7 +313,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
     <td>
       <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe/blob/main/screenshots/Cropped_Screenshots/Cropped_Screenshot_07_Journal.png">
         <img
-          src="Cropped_Screenshot_07_Journal.png"
+          src="screenshots/Cropped_Screenshots/Cropped_Screenshot_07_Journal.png"
           alt="Screenshot Journal"
           width="100%"
         />
