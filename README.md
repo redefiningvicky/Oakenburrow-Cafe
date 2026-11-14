@@ -27,7 +27,6 @@
 
 <h2 id="objective">🎯 Objective</h2>
 
-<p>
   The project brings together the comfort of a neighborhood café,
   storybook woodland animals, everyday generosity of paying
   for someone else's meal, and community. Its gentle pace and hand-painted setting
@@ -37,7 +36,43 @@
 
 <h2 id="inspiration">🍂 Inspiration</h2>
 
-Acorn Community Cafe
+<h3> Acorn Community Cafe's Pay It Forward Program </h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://bbb83a09327b01988266.cdn6.editmysite.com/uploads/b/bbb83a09327b01988266e1bdd41facc15df6a203b4bdf5be7bcb4bbbe3380a98/Screen%20Shot%202026-01-06%20at%2011.40.37%20AM_1767984231.png?width=2400&optimize=medium">
+        <img
+          src="https://bbb83a09327b01988266.cdn6.editmysite.com/uploads/b/bbb83a09327b01988266e1bdd41facc15df6a203b4bdf5be7bcb4bbbe3380a98/Screen%20Shot%202026-01-06%20at%2011.40.37%20AM_1767984231.png?width=2400&optimize=medium"
+          alt="Acorn Community Cafe"
+          width="480"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+<ul>
+  <li>
+    <a href="https://www.eatacorncafe.com/">
+      Website
+    </a>
+  </li>
+  <li>
+    <a href="https://www.registerguard.com/story/news/2022/04/06/eugene-vegan-acorn-community-cafe-restaurant-offering-free-meals/65347648007/">
+      Article
+    </a>
+  </li>
+</ul>
 
 <hr>
 
@@ -57,10 +92,10 @@ Acorn Community Cafe
 
 <hr>
 
-<h2 id="story">📖 Story</h2>
+<h2 id="story">🦌 Story</h2>
 
 <p>
-  Oakenburrow Cafe invites you to slow down inside a welcoming café
+  Oakenburrow Cafe invites you to slow down inside a welcoming cafe
   tucked into the hollow of an old oak. Play as Fern, a quiet deer,
   settle in for a visit, and share a little kindness with the woodland
   community. Choose something from the seasonal menu, enjoy it at your
