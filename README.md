@@ -110,13 +110,13 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 
 <hr>
 
-<h2 id="Details">🔎 Details</h2>
+<h2 id="details">🔎 Details</h2>
 
 <details>
   <summary><strong>Season</strong></summary>
 
   <p>
-    Fall
+    <li> Fall </li>
   </p>
 
 </details>
@@ -125,8 +125,8 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
   <summary><strong>Time</strong></summary>
 
   <p>
-    Brunch, 10 am - 3 pm
-    Dinner, 5 pm - 9 pm
+      <li> Brunch, 10 am - 3 pm </li>
+      <li> Dinner, 5 pm - 9 pm </li>
   </p>
 
 </details>
@@ -135,12 +135,12 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
   <summary><strong>Menu</strong></summary>
 
   <p>
-    Brunch
-    Soup
-    Dinner
-    Dessert
-    Bakery
-    Beverages
+    <li> Brunch </li>
+    <li> Soup </li>
+    <li> Dinner </li>
+    <li> Dessert </li>
+    <li> Bakery </li>
+    <li> Beverages </li>
   </p>
 
 </details>
