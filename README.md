@@ -210,7 +210,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 
 <h2 id="images">🖼️ Images</h2>
 
-<h3>Oakenburrow Cafe</h3>
+<h3>Oakenburrow Cafe Entrance</h3>
 
 <table>
   <tr>
@@ -226,6 +226,8 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
   </tr>
 </table>
 
+<h3>Menu</h3>
+
 <table>
   <tr>
     <td>
@@ -239,6 +241,8 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
     </td>
   </tr>
 </table>
+
+<h3>Food</h3>
 
 <table>
   <tr>
@@ -254,6 +258,8 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
   </tr>
 </table>
 
+<h3>Pay It Forward Tokens</h3>
+
 <table>
   <tr>
     <td>
@@ -267,6 +273,8 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
     </td>
   </tr>
 </table>
+
+<h3>Thimble Enjoys Meal</h3>
 
 <table>
   <tr>
@@ -282,6 +290,8 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
   </tr>
 </table>
 
+<h3>Thimble Leaves with Takeaway</h3>
+
 <table>
   <tr>
     <td>
@@ -295,6 +305,8 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
     </td>
   </tr>
 </table>
+
+<h3>Journal</h3>
 
 <table>
   <tr>
