@@ -101,11 +101,8 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
   <li>Browse the cafe menu and choose food or a drink.</li>
   <li>Meet the woodland regulars and enjoy your meal.</li>
   <li>Settle your bill and leave a carved token for a neighbor.</li>
+  <li>Fern has a $100 card budget for the visit.</li>
 </ol>
-
-<p>
-  Fern has a $100 card budget for the visit.
-</p>
 
 <hr>
 
