@@ -28,7 +28,7 @@
 
 <h2 id="objective">🎯 Objective</h2>
 
-Oakenburrow Cafe brings the comfort of a neighborhood cafe to a gently paced, hand-painted woodland world where paying for a neighbor’s meal turns a small act of kindness into community.
+Oakenburrow Cafe brings the comfort of a neighborhood cafe to a gently paced, hand-painted woodland world where paying for a neighbor’s meal turns a small act of kindness into community. Designed with Lovable, Claude, and ChatGPT.
 
 <hr>
 
