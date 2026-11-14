@@ -192,7 +192,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
     <li>Moss</li>
     <li>Thimble</li>
     <li>Clover</li>
-    <li>Server (Laurel)</li>
+    <li>Server (Juniper)</li>
   </ul>
 </details>
 
