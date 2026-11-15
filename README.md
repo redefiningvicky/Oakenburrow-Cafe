@@ -28,7 +28,7 @@
 
 <h2 id="objective">🎯 Objective</h2>
 
-The project brings together the comfort of a neighborhood cafe, storybook woodland animals, and everyday generosity of paying for someone else's meal. Its gentle pace and hand-painted setting make a small act of kindness the heart of the experience. The imagination of the Oakenburrow community became a reality with Lovable, Claude, and ChatGPT.
+The project brings together the comfort of a neighborhood cafe, storybook woodland animals, and the everyday generosity of paying for someone else's meal. Its gentle setting makes a small act of kindness the heart of the experience. From the imagination, the Oakenburrow community becomes a virtual community with Lovable, Claude, and ChatGPT.
 
 <hr>
 
