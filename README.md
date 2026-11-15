@@ -21,7 +21,7 @@
   <li><a href="#how-to-play">How to Play</a></li>
   <li><a href="#details">Details</a></li>
   <li><a href="#game">Game</a></li>
-  <li><a href="#images">Images</a></li>
+  <li><a href="#images">A Visit to Oakenburrow Cafe</a></li>
 </ul>
 
 <hr>
@@ -208,9 +208,9 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 
 <hr>
 
-<h2 id="images">🖼️ Images</h2>
+<h2 id="images">🖼️ A Visit to Oakenburrow Cafe</h2>
 
-<h3>Entrance</h3>
+<h3>Welcome to Oakenburrow</h3>
 
 <table>
   <tr>
@@ -226,7 +226,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
   </tr>
 </table>
 
-<h3>Menu</h3>
+<h3>Choose a Woodland Meal</h3>
 
 <table>
   <tr>
@@ -242,7 +242,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
   </tr>
 </table>
 
-<h3>Food</h3>
+<h3>Settle In and Savor</h3>
 
 <table>
   <tr>
@@ -258,7 +258,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
   </tr>
 </table>
 
-<h3>Pay It Forward Tokens</h3>
+<h3>Leave a Meal for a Neighbor</h3>
 
 <table>
   <tr>
@@ -274,7 +274,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
   </tr>
 </table>
 
-<h3>Thimble Enjoys Meal</h3>
+<h3>A Little Kindness Reaches Thimble</h3>
 
 <table>
   <tr>
@@ -290,7 +290,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
   </tr>
 </table>
 
-<h3>Thimble Leaves with Takeaway</h3>
+<h3>Kindness Goes Home Too</h3>
 
 <table>
   <tr>
@@ -306,7 +306,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
   </tr>
 </table>
 
-<h3>Thank You</h3>
+<h3>Until Your Next Visit</h3>
 
 <table>
   <tr>
@@ -322,7 +322,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
   </tr>
 </table>
 
-<h3>Journal</h3>
+<h3>Remember Your Visit</h3>
 
 <table>
   <tr>
