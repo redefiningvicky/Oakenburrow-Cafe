@@ -186,13 +186,13 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 <details>
   <summary><strong>Characters</strong></summary>
   <ul>
-    <li>Fern</li>
-    <li>Hazel</li>
-    <li>Pip</li>
-    <li>Moss</li>
-    <li>Thimble</li>
-    <li>Clover</li>
-    <li>Juniper</li>
+    <li>Fern, guest deer</li>
+    <li>Hazel, wise hedgehog</li>
+    <li>Pip, energetic squirrel</li>
+    <li>Moss, philosopher chipmunk</li>
+    <li>Thimble, shy mouse</li>
+    <li>Clover, mother rabbit</li>
+    <li>Juniper, server mouse</li>
   </ul>
 </details>
 
