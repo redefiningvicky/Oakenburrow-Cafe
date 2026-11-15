@@ -21,7 +21,7 @@
   <li><a href="#how-to-play">How to Play</a></li>
   <li><a href="#details">Details</a></li>
   <li><a href="#game">Game</a></li>
-  <li><a href="#images">A Visit to Oakenburrow Cafe</a></li>
+  <li><a href="#images">Images</a></li>
 </ul>
 
 <hr>
@@ -208,7 +208,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 
 <hr>
 
-<h2 id="images">🖼️ A Visit to Oakenburrow Cafe</h2>
+<h2 id="images">🖼️ Images</h2>
 
 <h3>Welcome to Oakenburrow</h3>
 
