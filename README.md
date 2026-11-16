@@ -343,10 +343,6 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 <div align="center">
 
   <p>
-    <a href="https://github.com/redefiningvicky/Vibe-Coding-Projects">
-      Back to Vibe Coding Projects
-    </a>
-      •  
     <a href="https://github.com/redefiningvicky/redefiningvicky">
       Back to Portfolio
     </a>
