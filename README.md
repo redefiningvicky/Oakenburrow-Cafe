@@ -68,7 +68,11 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 <h2 id="project-details">🛠️ Project Details</h2>
 
 <p>
-  <strong>Tools:</strong> Lovable, Claude, ChatGPT
+  <strong>Tools:</strong> Claude → Lovable → ChatGPT
+</p>
+
+<p>
+  <strong>Workflow:</strong> Lovable, Claude, ChatGPT
 </p>
 
 <p>
