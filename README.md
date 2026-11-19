@@ -201,7 +201,7 @@ The project brings together the comfort of a neighborhood cafe, storybook woodla
 <h2 id="game">🎲 Game</h2>
 
 <p>
-  <a href="https://oakenburrowcafe.lovable.app/">
+  <a href="https://oakenburrow-cafe.lovable.app/">
     Launch Game
   </a>
 </p>
